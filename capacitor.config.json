@@ -1,0 +1,6 @@
+{
+  "appId": "com.food.deliveryapp",
+  "appName": "Food Delivery App",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

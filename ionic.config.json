@@ -1,0 +1,9 @@
+
+{
+  "name": "Food Delivery App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "defaultProject": "app"
+}
